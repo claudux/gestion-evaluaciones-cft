@@ -28,9 +28,9 @@ Más allá de la automatización operativa, el sistema centraliza registros estr
 
 ## 📸 Arquitectura y Pantallazos
 *(Nota: Añade aquí las capturas de tu manual de uso)*
-*   **Menú Principal (Seguridad por Rol):** `!images/principal.png`
-*   **Formulario de Ingreso (Docente):** `![Formulario](url-de-tu-imagen)`
-*   **Módulo de Aprobaciones (Asesor):** `![Asesor](url-de-tu-imagen)`
+*   **Menú Principal (Seguridad por Rol):** ![Página Principal](images/principal.png)
+*   **Formulario de Ingreso (Docente):** ![Formulario Docente](images/docente.png)
+*   **Módulo de Aprobaciones (Asesor):** ![Sección Asesor](images/asesor.png)
 
 ---
 
